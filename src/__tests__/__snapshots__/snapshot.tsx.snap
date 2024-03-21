@@ -1,0 +1,142 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+  <main
+    class="flex min-h-screen flex-col items-center justify-center p-24 gap-20"
+  >
+    <div
+      class="relative flex place-items-center before:absolute before:h-[300px] before:w-full sm:before:w-[480px] before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-full sm:after:w-[240px] after:translate-x-1/3 after:bg-gradient-conic after:from-sky-200 after:via-blue-200 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-blue-700 before:dark:opacity-10 after:dark:from-sky-900 after:dark:via-[#0141ff] after:dark:opacity-40 before:lg:h-[360px] z-[-1]"
+    >
+      <img
+        alt="Next.js Logo"
+        class="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
+        data-nimg="1"
+        decoding="async"
+        fetchpriority="high"
+        height="37"
+        src="/next.svg"
+        style="color: transparent;"
+        width="180"
+      />
+    </div>
+    <div
+      class="relative flex place-items-center before:absolute before:h-[300px] before:w-full sm:before:w-[480px] before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-full sm:after:w-[240px] after:translate-x-1/3 after:bg-gradient-conic after:from-sky-200 after:via-blue-200 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-blue-700 before:dark:opacity-10 after:dark:from-sky-900 after:dark:via-[#0141ff] after:dark:opacity-40 before:lg:h-[360px] z-[-1]"
+    />
+    <div
+      class="mb-32 grid text-center justify-center items-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-2 lg:text-center"
+    >
+      <h2
+        class="mb-3 text-2xl font-semibold"
+      >
+        NextJS 14
+         
+        <span
+          class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
+        >
+          -&gt;
+        </span>
+      </h2>
+      <h2
+        class="mb-3 text-2xl font-semibold"
+      >
+        ReactJS 18
+         
+        <span
+          class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
+        >
+          -&gt;
+        </span>
+      </h2>
+      <h2
+        class="mb-3 text-2xl font-semibold"
+      >
+        Tailwind
+         
+        <span
+          class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
+        >
+          -&gt;
+        </span>
+      </h2>
+      <h2
+        class="mb-3 text-2xl font-semibold"
+      >
+        TypeScript
+         
+        <span
+          class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
+        >
+          -&gt;
+        </span>
+      </h2>
+      <h2
+        class="mb-3 text-2xl font-semibold"
+      >
+        Husky
+         
+        <span
+          class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
+        >
+          -&gt;
+        </span>
+      </h2>
+      <h2
+        class="mb-3 text-2xl font-semibold"
+      >
+        Eslint
+         
+        <span
+          class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
+        >
+          -&gt;
+        </span>
+      </h2>
+      <h2
+        class="mb-3 text-2xl font-semibold"
+      >
+        Prettier
+         
+        <span
+          class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
+        >
+          -&gt;
+        </span>
+      </h2>
+      <h2
+        class="mb-3 text-2xl font-semibold"
+      >
+        Jest
+         
+        <span
+          class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
+        >
+          -&gt;
+        </span>
+      </h2>
+      <h2
+        class="mb-3 text-2xl font-semibold"
+      >
+        Cypress
+         
+        <span
+          class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
+        >
+          -&gt;
+        </span>
+      </h2>
+      <h2
+        class="mb-3 text-2xl font-semibold"
+      >
+        SWR (stale-while-revalidate)
+         
+        <span
+          class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
+        >
+          -&gt;
+        </span>
+      </h2>
+    </div>
+  </main>
+</div>
+`;
