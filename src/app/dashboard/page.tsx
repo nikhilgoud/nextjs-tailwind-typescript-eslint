@@ -4,8 +4,7 @@ import useSwr from 'swr';
 
 const fetcher = (url: string) => fetch(url).then((res) => res.json());
 export default function Dashboard() {
-  const {data, error, isLoading} = undefined;
-  // const {data, error, isLoading} = useSwr<Hello>('/api/hello', fetcher);
+  const {data, error, isLoading} = useSwr<Hello>('/api/hello', fetcher);
 
   return (
     <main className="flex flex-col min-h-screen items-center justify-center md:mt-[-70px]">
